@@ -1,3 +1,4 @@
 ﻿double numberA = 12;
 double numberB = 5;
-Console.WriteLine(numberA / numberB);
+double numberC = 2;
+Console.WriteLine((numberA / numberB)* numberC);
